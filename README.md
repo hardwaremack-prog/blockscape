@@ -4,6 +4,9 @@ A ray-traced voxel survival world that runs in a single HTML file.
 
 ![Blockscape screenshot](<Blockscape - screenshot.png>)
 
+![In the world — every pixel ray-traced live](screenshots/gameplay.png)
+*In the world — every pixel ray-traced live*
+
 ## What you can do
 
 - Break and place blocks in a ray-traced 3D world with real lighting and see-through glass
